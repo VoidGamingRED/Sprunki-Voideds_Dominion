@@ -8,7 +8,7 @@
 ### **You can download the game in the releases here: https://github.com/VoidGamingRED/Sprunki-Voideds_Dominion/releases**
 
 ## Description
-Voided has become the antagonist in this universe. What will he do to it? Find out now by playing Sprunki - Voided's Dominion now! 
+Voided has become the antagonist in the Sprunkiverse. What will he do to it? Where will we live next? 
 
 ## Credits
 **GetVoided** - _T̵O̴O̶K̶ ̵O̸V̵E̶R̷ ̴T̷H̸E̶ ̶S̷P̵R̸U̵N̴K̴I̶V̵E̷R̶S̶E̵_
