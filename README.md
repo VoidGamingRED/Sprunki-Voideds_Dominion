@@ -11,13 +11,15 @@
 Voided has become the antagonist in the Sprunkiverse. What will he do to it? Where will we live next? 
 
 ## Credits
-**GetVoided** - _T̵O̴O̶K̶ ̵O̸V̵E̶R̷ ̴T̷H̸E̶ ̶S̷P̵R̸U̵N̴K̴I̶V̵E̷R̶S̶E̵_
+GetVoided - T̵O̴O̶K̶ ̵O̸V̵E̶R̷ ̴T̷H̸E̶ ̶S̷P̵R̸U̵N̴K̴I̶V̵E̷R̶S̶E̵ + cooked with the music, made the normal designs, made the horror icons, coded the mod, made the horror background, and the camera movement in horror!
 
-**Marshy** - Horror Designer
+Marshy - Horror Designer
 
-**Astarinx** - Character Template
+Astarinx - Character Template
 
-**vitorleandro1060** - Voided Horror Concept
+Moboy - Normal Background Designer & Animator
+
+vitorleandro1060 - Voided Horror Concept
 
 
 ## Social Links
